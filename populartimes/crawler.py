@@ -537,5 +537,5 @@ def run(_params):
 
     q_detail.join()
     logging.info("Finished in: {}".format(str(datetime.datetime.now() - start)))
-
+    
     return results
