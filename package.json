@@ -1,0 +1,22 @@
+{
+  "name": "populartimes",
+  "version": "1.0.0",
+  "description": "The goal of this library is to provide an option to use *Google Maps* popular times data, until it is available via Google's API.  For legal concerns please read [Issue #90](../../issues/90).",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardcoaxum/populartimes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardcoaxum/populartimes/issues"
+  },
+  "homepage": "https://github.com/richardcoaxum/populartimes#readme"
+}
